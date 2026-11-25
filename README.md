@@ -75,6 +75,8 @@ AI 可以帮助将有趣的项目拆解为项目式学习（PBL）任务：**明
 
 **基础设施详细介绍：[Kid Courseware：K12 知识与学习诊断基础设施](infrastructure/kid-courseware.md)**
 
+> **知识点数据会持续不断地进行治理、校验和迭代，逐步补全跨学科、跨年级及不同课程体系之间的联系，敬请关注。**
+
 **首页与知识检索入口**
 
 ![Kid Courseware 首页与知识检索入口](infrastructure/images/kid-courseware-home.jpg)
@@ -86,8 +88,6 @@ AI 可以帮助将有趣的项目拆解为项目式学习（PBL）任务：**明
 **知识点详情与先修知识**
 
 ![Kid Courseware 知识点详情、相关概念与先修知识](infrastructure/images/kid-courseware-knowledge-detail.jpg)
-
-> **知识点数据会持续不断地进行治理、校验和迭代，逐步补全跨学科、跨年级及不同课程体系之间的联系，敬请关注。**
 
 ## 五、开放性 Roadmap
 
