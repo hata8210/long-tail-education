@@ -67,7 +67,29 @@ AI 可以帮助将有趣的项目拆解为项目式学习（PBL）任务：**明
 
 提交案例时，简单写清楚：**谁在学、想学或想做什么、卡在哪里、希望怎样得到帮助**；已有尝试的，可以补充方法、结果和不足。请使用匿名案例，避免上传可识别的学生个人信息。
 
-## 四、开放性 Roadmap
+## 四、给大家的基础设施
+
+我们将 **Kid Courseware（知间）** 作为 Long-Tail Education 面向大家提供的一项共享基础设施：通过可查询、可解释的 K12 知识地图，为 AI 教学应用提供知识理解、项目与任务拆解、先修关系分析和查漏补缺等基础能力，尤其支持 PBL、STEAM 及其他跨学科、个性化学习场景。当前可以通过网站检索知识并探索知识之间的联系，后续还将逐步以 MCP 和 Agent Skill 的方式为更多 AI 教学应用提供免费服务。
+
+**访问网站：<https://kidcourseware.cn>**
+
+**基础设施详细介绍：[Kid Courseware：K12 知识与学习诊断基础设施](infrastructure/kid-courseware.md)**
+
+**首页与知识检索入口**
+
+![Kid Courseware 首页与知识检索入口](infrastructure/images/kid-courseware-home.jpg)
+
+**知识检索结果与关系图**
+
+![Kid Courseware 知识检索与知识关系图](infrastructure/images/kid-courseware-knowledge-graph.jpg)
+
+**知识点详情与先修知识**
+
+![Kid Courseware 知识点详情、相关概念与先修知识](infrastructure/images/kid-courseware-knowledge-detail.jpg)
+
+> **知识点数据会持续不断地进行治理、校验和迭代，逐步补全跨学科、跨年级及不同课程体系之间的联系，敬请关注。**
+
+## 五、开放性 Roadmap
 
 项目不预设唯一产品，也不要求所有方向按固定顺序推进。我们希望和参与者一起：
 
